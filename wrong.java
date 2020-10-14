@@ -1,5 +1,5 @@
 class wrong{
 	public static main(String[] args){
-		System.print("Hello world");
+		System.out.println("Hello world");
 	}
 }
